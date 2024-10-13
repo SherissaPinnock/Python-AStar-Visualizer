@@ -7,7 +7,11 @@ Visualize the A* search algorithm step by step.
 Custom input for the adjacency matrix and heuristic values.
 Automatically generate random graphs.
 Display the optimal path and cost.
+
+
 ![image](https://github.com/user-attachments/assets/e74a7fa2-7b20-4981-ac06-5ea3f955adf6)
+
+
 Adjacency Matrix Format:
 Input the adjacency matrix in the following format:
 
